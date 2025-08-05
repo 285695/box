@@ -1,5 +1,5 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/285695/box/main/jdh4/qianx.jar",
+    "spider": "./qianx.jar",
      "wallpaper": "https://12.qqwxx.cn/bg1.png",
     "logo": "https://12.qqwxx.cn/a.png",
     "sites": [
