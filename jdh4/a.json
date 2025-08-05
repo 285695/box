@@ -1,5 +1,5 @@
 {
-    "spider": "./qianx.jar",
+    "spider": "https://cdn.jsdelivr.net/gh/285695/box/refs/heads/main/jdh4/qianx.jar",
      "wallpaper": "https://12.qqwxx.cn/bg1.png",
     "logo": "https://12.qqwxx.cn/a.png",
     "sites": [
